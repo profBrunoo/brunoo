@@ -6,7 +6,9 @@ header{
     background-color: white;
     padding: 20px 0;
 }
-
+nav{
+    position: sticky;
+}
 nav li {
     display: inline;
     margin-right: 15px;
