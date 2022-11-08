@@ -4,14 +4,15 @@ body {
 
 header{
     background-color: white;
+    padding: 20px 0;
 }
 
 nav li {
     display: inline;
     margin-right: 15px;
+    
 }
-nav a{
-	text-transform:uppercase;
+nav a{text-transform: uppercase;
     text-decoration: none;
 }
 .texto-principal {
